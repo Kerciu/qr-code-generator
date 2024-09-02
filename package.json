@@ -2,5 +2,16 @@
   "dependencies": {
     "inquirer": "^10.1.8",
     "qr-image": "^3.2.0"
-  }
+  },
+  "name": "qr-image-generator",
+  "version": "1.0.0",
+  "description": "Generates random image based on the given url",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kacper Górski",
+  "license": "ISC"
 }
